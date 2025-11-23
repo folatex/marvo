@@ -1,0 +1,82 @@
+
+
+.test {
+    max-width: 600px;
+}
+
+#image2 {
+    width: 100%;
+    height: 350px;
+}
+
+#image2 img {
+    width: 100%;
+    height: 100%;
+}
+
+#work1 {
+    font-size: 30px;
+    margin-left: 150px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.stress {
+    font-size: 20px;
+}
+
+#image3 {
+    width: 100%;
+    height: 350px;
+}
+
+#image3 img {
+    width: 100%;
+    height: 100%;
+}
+
+#work2 {
+    font-size: 30px;
+    margin-right: 150px;
+}
+
+#contact {
+    line-height: 40px;
+}
+
+#contact-title {
+    margin-left: 150px;
+    font-size: 100px;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+#contact-contents {
+    display: flex;
+    justify-content: space-between;
+    gap: 70px;
+}
+
+#image4 {
+    display: flex;
+    margin-left: 150px;
+    width: 100%;
+    height: 350px;
+}
+
+#contact-paragraph {
+    font-size: 25px;
+}
+
+.hover-effect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #474306;
+    color: #f5ee84;
+    font-size: 40px;
+    text-align: center;
+    background-image: none;
+}
